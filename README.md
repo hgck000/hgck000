@@ -1,4 +1,4 @@
-# Hi there, I'm Khoa 👋
+# Hi there, I'm Minh 👋
 
 ## 👨‍💻 About Me:
 - 💼 Software Developer
