@@ -22,8 +22,8 @@
 - [Portfolio](https://hgck000.github.io)
 
 ## 📚 Projects:
-- [Project 1](https://github.com/hgck000/trello-web)
-- [Project 2](https://github.com/hgck000/BookingTicket)
+- [Trello Web](https://github.com/hgck000/trello-web)
+- [Booking Ticket](https://github.com/hgck000/BookingTicket)
 - [Project 3](https://github.com/hgck000/project-3)
 
 ## 🎮 Hobbies:
