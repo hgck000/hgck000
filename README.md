@@ -24,10 +24,10 @@
 ## 📚 Projects:
 - [Trello Web](https://github.com/hgck000/trello-web)
 - [Booking Ticket](https://github.com/hgck000/BookingTicket)
-- [Project 3](https://github.com/hgck000/project-3)
+- [Chat room online](https://github.com/hgck000/chat-room-udp)
 
 ## 🎮 Hobbies:
-- Playing video games
+- Research and create new things
 - Reading books
 - Gym
 
