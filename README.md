@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Minh 
-<br/>👀 I’m currently a Web Developer
-<br/>📫 Contact me at: [Linkedin](https://www.linkedin.com/in/minh-quang-3325b9209/)
+👋 Hi, I’m Minh 
+👀 I’m currently a Web Developer
+📫 Contact me at: [Linkedin](https://www.linkedin.com/in/minh-quang-3325b9209/)
 
 <br/>💻 **Languages:** JavaScript, TypeScript
 <br/>🌐 **Frontend:** React, HTML, CSS, MaterialUi, ShadcnUI
