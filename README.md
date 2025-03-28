@@ -2,12 +2,6 @@
 <br/>👀 I’m currently a Web Developer
 <br/>📫 Contact me at: [Linkedin](https://www.linkedin.com/in/minh-quang-3325b9209/)
 
-💻 **Languages:** JavaScript, TypeScript
-<br/>🌐 **Frontend:** React, HTML, CSS, MaterialUi, ShadcnUI
-<br/>🛠 **Backend:** Node.js, Express.js
-<br/>🗄 **Databases:** MySQL, PostgreSQL, MongoDB
-<br/>⚙️ **DevOps:** Docker, Kubernetes, GitHub Actions
-
 <div>
 <a href="https://www.facebook.com/hgck000/">
   <img align="left" width="40px" alt="Nguyễn Quang Minh | Facebook" src="https://i.pinimg.com/564x/7d/f2/cc/7df2cc2a2a2d14d93354abe29d435ae8.jpg"/>
