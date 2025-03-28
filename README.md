@@ -16,7 +16,7 @@
 <br />
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hgck000" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=hgck000&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 <picture>
   <source
