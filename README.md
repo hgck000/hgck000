@@ -16,7 +16,7 @@
 <br />
 <br />
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hgck000" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=hgck000" alt="GitHub Streak" />
 
 <picture>
   <source
