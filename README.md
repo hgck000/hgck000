@@ -1,8 +1,8 @@
 👋 Hi, I’m Minh 
-👀 I’m currently a Web Developer
-📫 Contact me at: [Linkedin](https://www.linkedin.com/in/minh-quang-3325b9209/)
+<br/>👀 I’m currently a Web Developer
+<br/>📫 Contact me at: [Linkedin](https://www.linkedin.com/in/minh-quang-3325b9209/)
 
-<br/>💻 **Languages:** JavaScript, TypeScript
+💻 **Languages:** JavaScript, TypeScript
 <br/>🌐 **Frontend:** React, HTML, CSS, MaterialUi, ShadcnUI
 <br/>🛠 **Backend:** Node.js, Express.js
 <br/>🗄 **Databases:** MySQL, PostgreSQL, MongoDB
