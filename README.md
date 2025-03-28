@@ -10,7 +10,7 @@
   <img width="40px" alt="Nguyễn Quang Minh | Instagram" src="https://i.pinimg.com/736x/4d/40/97/4d4097f3c479b8da74d988c322c797fa.jpg"/>
 </a>
 
-<table>
+<table border="0">
   <tr>
     <td>
       <picture>
