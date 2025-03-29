@@ -15,7 +15,7 @@
   <a href="https://www.reddit.com/user/hgck000/">
     <img align="left" width="42px" alt="Nguyễn Quang Minh | Reddit" src="https://i.pinimg.com/736x/9c/33/07/9c3307c5f9a788c51fd012088f5e310b.jpg"/>
   </a>
-    <img align="right" width="80px" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif"/>
+    <img align="left" width="55px" src="https://i.pinimg.com/originals/e8/d0/f1/e8d0f1794e2520ac2367c1d21c0966e9.gif"/>
   <br/>
   <br/>
   <br/>
