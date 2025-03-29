@@ -1,4 +1,4 @@
-<img align="right" height="347" width="370" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
+<img align="right" height="350" width="370" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
 <div align="left">
   👋 Hi, I’m Minh  
   <br/>👀 I’m currently a Web Developer
