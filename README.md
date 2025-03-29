@@ -1,12 +1,12 @@
-<img align="right" height="50%" width="50%" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
+<img align="right" height="40%" width="40%" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
 
 ###
 
 <div align="left">
   👋 Hi, I’m Minh  
   <br/>👀 I’m currently a Web Developer
-  📫 Contact me at: [Linkedin]
-
+  <br/>📫 Contact me at: [Linkedin]
+  <br/>
   <a href="https://www.facebook.com/hgck000/">
     <img width="40px" alt="Nguyễn Quang Minh | Facebook" src="https://i.pinimg.com/564x/7d/f2/cc/7df2cc2a2a2d14d93354abe29d435ae8.jpg"/>
   </a>
