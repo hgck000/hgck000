@@ -17,13 +17,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hgck000&show_icons=true" />
 </div>
 
-<img align="right" height="200" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
+<img align="right" height="250" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hgck000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hgck000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 ###
