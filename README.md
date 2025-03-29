@@ -11,7 +11,7 @@
 </a>
 <br/>
 
-<img align="right" height="200" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
+<img align="right" height="100%" width="100%" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
 
 ###
 
