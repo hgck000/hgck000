@@ -32,10 +32,7 @@
 
     <!-- Cột 2: Coding GIF -->
     <td style="border: none; padding: 0; text-align: right;">
-      <img 
-        src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true" 
-        width="250px" 
-        alt="Coding GIF" />
+      <img src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true" width="250px" />
     </td>
   </tr>
 </table>
