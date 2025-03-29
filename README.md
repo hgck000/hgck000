@@ -1,4 +1,4 @@
-<img align="right" height="370" width="420" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
+<img align="right" height="330" width="370" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
 
 ###
 
