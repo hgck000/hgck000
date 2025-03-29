@@ -1,7 +1,4 @@
-<img align="right" height="40%" width="40%" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
-
 ###
-
 <div align="left">
   👋 Hi, I’m Minh  
   <br/>👀 I’m currently a Web Developer
@@ -20,6 +17,6 @@
 
 ###
 
-<div align="left">
-</div>
+<img align="right" height="40%" width="40%" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
+
 
