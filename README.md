@@ -4,7 +4,7 @@
 
 <div align="left">
   👋 Hi, I’m Minh  
-  <br/>👀 I’m currently a Web Developer<br/>
+  <br/>👀 I’m currently a Web Developer
   📫 Contact me at: [Linkedin](https://www.linkedin.com/in/minh-quang-3325b9209/)
 
   <a href="https://www.facebook.com/hgck000/">
