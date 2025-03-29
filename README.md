@@ -11,21 +11,19 @@
 </a>
 <br/>
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: nowrap;">
-  <div>
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=hgck000&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=hgck000&show_icons=true"
-        media="(prefers-color-scheme: light)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=hgck000&show_icons=true" />
-    </picture>
-  </div>
-  <div>
-    <img src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true" width="250px" />
-  </div>
-</div>
+<table>
+  <tr>
+    <!-- Cột 1: GitHub Stats -->
+    <td>
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=hgck000&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
+        <source srcset="https://github-readme-stats.vercel.app/api?username=hgck000&show_icons=true" media="(prefers-color-scheme: light)">
+        <img src="https://github-readme-stats.vercel.app/api?username=hgck000&show_icons=true" />
+      </picture>
+    </td>
+    <!-- Cột 2: Coding GIF -->
+    <td>
+      <img src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true" width="250px" />
+    </td>
+  </tr>
+</table>
