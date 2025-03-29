@@ -11,10 +11,9 @@
 </a>
 <br/>
 
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <picture>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=hgck000&show_icons=true&theme=dark"
           media="(prefers-color-scheme: dark)"
@@ -24,12 +23,9 @@
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img src="https://github-readme-stats.vercel.app/api?username=hgck000&show_icons=true" />
-      </picture>
-    </td>
-    <td style="border: none;">
-      <img src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true" width="250px"/>
-    </td>
-  </tr>
-</table>
-
-
+    </picture>
+  </div>
+  <div>
+    <img src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true" width="250px"/>
+  </div>
+</div>
