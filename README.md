@@ -5,7 +5,7 @@
 <div align="left">
   👋 Hi, I’m Minh  
   <br/>👀 I’m currently a Web Developer
-  📫 Contact me at: <a href="https://www.linkedin.com/in/minh-quang-3325b9209/">[Linkedin]</a>
+  📫 Contact me at: [Linkedin]
 
   <a href="https://www.facebook.com/hgck000/">
     <img width="40px" alt="Nguyễn Quang Minh | Facebook" src="https://i.pinimg.com/564x/7d/f2/cc/7df2cc2a2a2d14d93354abe29d435ae8.jpg"/>
