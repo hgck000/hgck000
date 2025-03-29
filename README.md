@@ -1,4 +1,4 @@
-<img align="right" height="45%" width="45%" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
+<img align="right" height="45%" width="44%" src="https://github.com/hgck000/hgck000/blob/main/coding.gif?raw=true"  />
 
 ###
 <div align="left">
