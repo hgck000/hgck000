@@ -7,11 +7,13 @@
   <br/>
   
   <a href="https://www.facebook.com/hgck000/">
-    <img width="40px" alt="Nguyễn Quang Minh | Facebook" src="https://i.pinimg.com/564x/7d/f2/cc/7df2cc2a2a2d14d93354abe29d435ae8.jpg"/>
+    <img align="left" width="40px" alt="Nguyễn Quang Minh | Facebook" src="https://i.pinimg.com/564x/7d/f2/cc/7df2cc2a2a2d14d93354abe29d435ae8.jpg"/>   
   </a>
-
+  &nbsp;
   <a href="https://www.instagram.com/toilaqminh/">
-    <img width="40px" alt="Nguyễn Quang Minh | Instagram" src="https://i.pinimg.com/736x/4d/40/97/4d4097f3c479b8da74d988c322c797fa.jpg"/>
+    <img align="left" width="40px" alt="Nguyễn Quang Minh | Instagram" src="https://i.pinimg.com/736x/af/82/1b/af821bf330d7faac53b0dd35991baa7f.jpg"/>
+  <a href="https://www.reddit.com/user/hgck000/">
+    <img align="left" width="42px" alt="Nguyễn Quang Minh | Reddit" src="https://i.pinimg.com/736x/9c/33/07/9c3307c5f9a788c51fd012088f5e310b.jpg"/>
   </a>
   <br/>
   <br/>
