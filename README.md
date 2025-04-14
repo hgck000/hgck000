@@ -5,8 +5,8 @@
   <br/>📫 Contact me at: [Linkedin]
   <br/>
   <br/>
-                          
 
+  
   <a href="https://www.facebook.com/hgck000/">
     <img align="left" width="40px" alt="Nguyễn Quang Minh | Facebook" src="https://i.pinimg.com/564x/7d/f2/cc/7df2cc2a2a2d14d93354abe29d435ae8.jpg"/>   
   </a>
@@ -20,5 +20,6 @@
   <br/>
   <br/>
   <br/>
-  <img height="190" src="github-readme-stats-ggxlmwa0q-vlight78964s-projects.vercel.app" alt="stats graph"  />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=hgck000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" alt="stats graph"  />
 </div>
+ 
