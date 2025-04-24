@@ -5,7 +5,6 @@
   <br/>📫 Contact me at: [Linkedin]
   <br/>
   <br/>
-  <br/>
 
   
   <a href="https://www.facebook.com/hgck000/">
